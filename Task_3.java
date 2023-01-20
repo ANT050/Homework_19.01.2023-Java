@@ -9,7 +9,7 @@ public class Task_3 {
 	// Основной метод программы
 	public static void main(String[] args) {
 		ArrayList<Integer> list1 = creatingList();
-		System.out.println("\nНачальный списко: " + list1);
+		System.out.println("\nНачальный список: " + list1);
 
 		// Отсартированный список в порядке возрастания
 		list1 = sortAscending(list1);

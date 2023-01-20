@@ -11,7 +11,7 @@ public class Task_2 {
 	// Основной метод программы
 	public static void main(String[] args) {
 		ArrayList<Integer> list1 = creatingList();
-		System.out.println("\nНачальный списко: " + list1);
+		System.out.println("\nНачальный список: " + list1);
 
 		sortList(list1);
 		System.out.println("\n\033[31mОтсартированный список в порядке убывания: " + list1 + "\033[0m");
