@@ -20,7 +20,7 @@
 
 <img src="images\Task_1.jpg" height="113" width="1060"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_19.01.2023-Java/blob/main/Task_1.java "Открыть")
 
 ---
 
@@ -34,7 +34,7 @@
 
 <img src="images\Task_2.jpg" height="72" width="986"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_19.01.2023-Java/blob/main/Task_2.java "Открыть")
 
 ---
 
@@ -48,7 +48,7 @@
 
 <img src="images\Task_3.jpg" height="98" width="895"/>
 
-:point_right: [Перейти к решению]( "Открыть")
+:point_right: [Перейти к решению](https://github.com/ANT050/Homework_19.01.2023-Java/blob/main/Task_3.java "Открыть")
 
 ---
 
